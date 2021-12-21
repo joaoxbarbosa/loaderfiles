@@ -1,3 +1,3 @@
 from reader import Reader
 
-print(Reader(".loader", "=", True)["balls fr"])
+print(Reader("example.loader", "=", True)["balls fr"])
